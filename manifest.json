@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar acc-redis-dcs.jar",
+  "notes":"Sample Redis app on ACCS"
+}
