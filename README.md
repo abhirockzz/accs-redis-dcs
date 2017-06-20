@@ -1,11 +1,11 @@
-# MongoDB + Hibernate OGM quick start using Oracle Application Container Cloud
+# Build, deploy and test a Redis based Java application using Oracle Cloud
 
 Check [the blog](tbd) for details
 
 ## Build
 
-- `git clone https://github.com/abhirockzz/accs-mongodb.git`
-- `mvn clean install` - creates `acc-mongodb-dcs-dist.zip` in `target` directory
+- `git clone https://github.com/abhirockzz/accs-redis-dcs.git`
+- `mvn clean install` - creates `acc-redis-dcs-dist.zip` in `target` directory
 
 ## Deploy
 
